@@ -1,0 +1,37 @@
+[
+  {
+    "id": "app.components.HomePage.back",
+    "defaultMessage": "I want more!",
+    "message": "Давай еще :)"
+  },
+  {
+    "id": "app.components.HomePage.copy",
+    "defaultMessage": "Copy to clipboard",
+    "message": "Скопировать"
+  },
+  {
+    "id": "app.components.HomePage.originalUrl",
+    "defaultMessage": "Your original URL here",
+    "message": "Ваш URL"
+  },
+  {
+    "id": "app.components.HomePage.shortenUrl",
+    "defaultMessage": "Shorten URL",
+    "message": "Сократить URL"
+  },
+  {
+    "id": "app.components.HomePage.step1Header",
+    "defaultMessage": "Simplify your links",
+    "message": "Упрости свои ссылки"
+  },
+  {
+    "id": "app.components.HomePage.step2Header",
+    "defaultMessage": "Your short URL",
+    "message": "Ваш URL"
+  },
+  {
+    "id": "app.components.NotFoundPage.header",
+    "defaultMessage": "Page not found",
+    "message": "Страница не найдена"
+  }
+]

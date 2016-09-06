@@ -1,0 +1,37 @@
+[
+  {
+    "id": "app.components.HomePage.back",
+    "defaultMessage": "I want more!",
+    "message": ""
+  },
+  {
+    "id": "app.components.HomePage.copy",
+    "defaultMessage": "Copy to clipboard",
+    "message": ""
+  },
+  {
+    "id": "app.components.HomePage.originalUrl",
+    "defaultMessage": "Your original URL here",
+    "message": ""
+  },
+  {
+    "id": "app.components.HomePage.shortenUrl",
+    "defaultMessage": "Shorten URL",
+    "message": ""
+  },
+  {
+    "id": "app.components.HomePage.step1Header",
+    "defaultMessage": "Simplify your links",
+    "message": ""
+  },
+  {
+    "id": "app.components.HomePage.step2Header",
+    "defaultMessage": "Your short URL",
+    "message": ""
+  },
+  {
+    "id": "app.components.NotFoundPage.header",
+    "defaultMessage": "Page not found",
+    "message": ""
+  }
+]

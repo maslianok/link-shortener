@@ -1,0 +1,34 @@
+/**
+ * styles.css
+ *
+ * App container styles
+ */
+
+/* global styles */
+html,
+body,
+:global(#app) {
+  min-height: 100vh;
+}
+
+/* end global styles */
+
+.container {
+  position: relative;
+  font-family: Roboto, sans-serif;
+}
+
+  .localeSelectWrapper {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    z-index: 1;
+  }
+
+    .localeSelect {
+      color: red;
+    }
+
+      .localeItem {
+        color: red;
+      }

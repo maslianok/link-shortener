@@ -1,0 +1,3 @@
+
+export const SIMPLIFY_LINK = 'HomePage/SIMPLIFY_LINK';
+export const CLEAR_SIMPLIFIED_LINK = 'HomePage/CLEAR_SIMPLIFIED_LINK';
